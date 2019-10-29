@@ -1,0 +1,1 @@
+This is JavaSample README
